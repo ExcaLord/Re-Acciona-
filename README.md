@@ -1,5 +1,8 @@
 # Re-Acciona Plus - Clasificador Inteligente de Residuos
 
+>**📌Important**
+>El diseño actual de esta aplicación es unicamente una guía visual de los elementos que se desea tener en la versión final, cualquier distribución comercial de esta es ilegal!
+
 ## 🌱 Descripción
 
 Re-Acciona Plus es una aplicación web progresiva (PWA) desarrollada como proyecto universitario que utiliza inteligencia artificial para ayudar a los usuarios a clasificar correctamente sus residuos. La aplicación permite a los usuarios tomar fotos o subir imágenes de residuos y recibe recomendaciones instantáneas sobre cómo reciclarlos adecuadamente.
@@ -133,13 +136,15 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👥 Equipo
 
 Este proyecto es desarrollado como parte del primer semestre universitario por:
-- [Nombres de los integrantes del equipo]
+- Miguel Henao
+- Sebastian Calvera
+- Matteo Cabrera
 
 ## 📞 Contacto
 
 Para más información sobre el proyecto, contacta a:
-- Email: [email del equipo]
-- Universidad: [nombre de la universidad]
+- Email: mcabrerac@ucompensar.edu.co
+- Universidad: Universidad Compensar
 
 ## 🙏 Agradecimientos
 
