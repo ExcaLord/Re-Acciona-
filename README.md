@@ -131,7 +131,7 @@ Este proyecto busca contribuir a los Objetivos de Desarrollo Sostenible:
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia AGPL 3.0. Ver el archivo `LICENSE` para más detalles.
 
 ## 👥 Equipo
 
